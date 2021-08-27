@@ -6,13 +6,13 @@
     border-radius: 10px;
 }
 .carousel-item{
-    padding: 20px 40px;
+    padding: 20px 170px;
 }
 .price{
     color:#FF136F;
 }
 .buy-now-button{
-    background-image:linear-gradient(to bottom, #FF589B 0%,#FF136F 100%);
+    background-image:linear-gradient(to bottom,#FF136F 0%,#FF136F 100%);
     color: #fff;
     border: none;
     border-radius: 8px;
@@ -51,4 +51,11 @@
     background-color: white;
     border-top: none;
 
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color:grey;
 }
